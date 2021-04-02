@@ -7,3 +7,5 @@ var h = window.innerHeight
     document.body.clientHeight;
 var x = document.getElementById("k");
 x.innerHTML = w + "x" + h;
+// read out client operating system and print to screen
+document.getElementById("os").innerHTML = navigator.platform;
