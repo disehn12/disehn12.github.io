@@ -1,0 +1,12 @@
+body {
+    background-color: blue;
+    color: white;
+    padding: 2rem;
+}
+.flex-container {
+    display: flex;
+    background-color: lightblue;
+    margin: 10px;
+    padding: 20px;
+    float: left;
+}
