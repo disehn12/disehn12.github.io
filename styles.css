@@ -5,3 +5,6 @@ h1, h2, h3, h4, h5, h6 {
 p {
   font-family: 'Montserrat', sans-serif;
 }
+.dis12-content {
+  padding: 2px 12px 2px 12px;
+}
