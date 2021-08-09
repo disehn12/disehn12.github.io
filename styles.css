@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Lacquer&family=Montserrat&display=swap');
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Lacquer', cursive;
+}
+p {
+  font-family: 'Montserrat', sans-serif;
+}
