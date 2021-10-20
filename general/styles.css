@@ -1,0 +1,11 @@
+body {
+  background-color: black;
+  color: white;
+}
+article {
+  border: .2em;
+  border-radius: .4em;
+  padding: 0 .4em 0 .4em;
+  border-style: solid;
+  margin-bottom: .2em;
+}
